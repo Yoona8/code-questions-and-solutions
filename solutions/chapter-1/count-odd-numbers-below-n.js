@@ -1,4 +1,4 @@
-const oddCount = (n) => Math.floor(n / 2);
+const countOdd = (n) => Math.floor(n / 2);
 
-console.log(oddCount(15)); // => 7
-console.log(oddCount(15023)); // => 7511
+console.log(countOdd(15)); // => 7
+console.log(countOdd(15023)); // => 7511
