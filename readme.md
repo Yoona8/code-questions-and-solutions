@@ -8,4 +8,12 @@
 
 </details>
 
+<details>
+<summary>0 - Remove Duplicates From List</summary>
+
+- [View my Solution](./solutions/chapter-1/remove-duplicates-from-list.js)
+- [Try Yourself on Codewars](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
+
+</details>
+
 ## Chapter 2
