@@ -25,3 +25,24 @@
 </details>
 
 ## Chapter 2
+<details>
+<summary>1 - Write a function y = ax^2 + bx + c</summary>
+
+- [View my Solution](./solutions/chapter-2/quadratic-equation.js)
+
+</details>
+
+## Chapter 3
+<details>
+<summary>1 - Transpose the matrix</summary>
+
+- [View my Solution](./solutions/chapter-3/matrix.js)
+
+</details>
+
+<details>
+<summary>2 - Print the list of things</summary>
+
+- [View my Solution](./solutions/chapter-3/matrix.js)
+
+</details>
