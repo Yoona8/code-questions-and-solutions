@@ -46,3 +46,10 @@
 - [View my Solution](./solutions/chapter-3/matrix.js)
 
 </details>
+
+<details>
+<summary>3 - Remove the item from the list of things</summary>
+
+- [View my Solution](./solutions/chapter-3/remove-from-list.js)
+
+</details>
