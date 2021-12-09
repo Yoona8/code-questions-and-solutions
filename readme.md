@@ -53,3 +53,10 @@
 - [View my Solution](./solutions/chapter-3/remove-from-list.js)
 
 </details>
+
+<details>
+<summary>4 - Find index if the value in the list of things</summary>
+
+- [View my Solution](./solutions/chapter-3/find-item.js)
+
+</details>
