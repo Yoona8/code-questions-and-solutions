@@ -1,5 +1,12 @@
 # My collection of solutions
 <details>
+<summary>9 - Find how many times the most frequent element is repeated in 2 asc sorted arrays</summary>
+
+- [View my Solution](./solutions/most-frequent.js)
+
+</details>
+
+<details>
 <summary>8 - Find index if the value in the list of things</summary>
 
 - [View my Solution](./solutions/find-item.js)
