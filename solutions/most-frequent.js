@@ -1,6 +1,4 @@
 /*
-The most naive solution: unite 2 arrays, count frequency, find max frequency
-
 -- HOW IT WORKS --
 Unite 2 arrays by copying all the values from 2 arrays into one.
 
@@ -38,10 +36,7 @@ const countMostFrequent = (firstArray, secondArray) => {
   return maxFrequency;
 };
 
-console.log(countMostFrequent([7, 8, 9, 9], [0, 9, 10, 11])); // => 3
 test(countMostFrequent([7, 8, 9, 9], [0, 9, 10, 11], 3));
-console.log(countMostFrequent([], [8, 8])); // => 2
 test(countMostFrequent([], [8, 8], 2));
-console.log(countMostFrequent([1, 2, 3, 3, 3, 4], [])); // => 3
 test(countMostFrequent([1, 2, 3, 3, 3, 4], [], 3));
 
