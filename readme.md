@@ -1,5 +1,12 @@
 # My collection of solutions
 <details>
+<summary>10 - Find the one number with different parity</summary>
+
+- [View my Solution](./solutions/different-parity.js)
+
+</details>
+
+<details>
 <summary>9 - Find how many times the most frequent element is repeated in 2 asc sorted arrays</summary>
 
 - [View my Solution](./solutions/most-frequent.js)
