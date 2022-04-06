@@ -1,5 +1,12 @@
 # My collection of solutions
 <details>
+<summary>11 - Parenthesis (easy)</summary>
+
+- [View my Solution](./solutions/parenthesis-easy.js)
+
+</details>
+
+<details>
 <summary>10 - Find the one number with different parity</summary>
 
 - [View my Solution](./solutions/different-parity.js)
