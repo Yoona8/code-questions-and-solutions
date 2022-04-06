@@ -12,7 +12,7 @@ The algorithm compares each value parity to the first one and
 when it finds the different parity, returns an index.
 
 -- TIME COMPLEXITY --
-TO iterate over an array takes O(n) time.
+To iterate over an array takes O(n) time.
 
 -- MEMORY CONSUMPTION --
 Additional memory is used to store the array of numbers - O(n).
