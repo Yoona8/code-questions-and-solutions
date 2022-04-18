@@ -1,5 +1,13 @@
 # My collection of solutions
 <details>
+<summary>12 - Spy decorator</summary>
+
+- [View my Solution](./solutions/spy-decorator.js)
+- [Try on JS Info](https://javascript.info/call-apply-decorators#spy-decorator)
+
+</details>
+
+<details>
 <summary>11 - Parenthesis (easy)</summary>
 
 - [View my Solution](./solutions/parenthesis-easy.js)
