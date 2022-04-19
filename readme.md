@@ -1,5 +1,13 @@
 # My collection of solutions
 <details>
+<summary>13 - Delaying decorator</summary>
+
+- [View my Solution](./solutions/delaying-decorator.js)
+- [Try on JS Info](https://javascript.info/call-apply-decorators#delaying-decorator)
+
+</details>
+
+<details>
 <summary>12 - Spy decorator</summary>
 
 - [View my Solution](./solutions/spy-decorator.js)
