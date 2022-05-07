@@ -1,5 +1,30 @@
 # My collection of solutions
 <details>
+<summary>14 - In the office at the same time</summary>
+
+<b>-- HOW IT WORKS --</b>
+1. Create an array with all the enter or leaving times
+2. Sort entries (when the time is the same, leaving comes first)
+3. Iterate over the sorted data increase counter if is leaving and decrease if is leaving
+4. Compare each item with current maximum
+
+<b>-- CORRECTNESS --</b>
+- the algorithm goes through each entry, changes the current count and checks the current maximum
+
+<b>-- TIME COMPLEXITY --</b>
+- `O(n)` to create an array with entries
+- `O(n*logn)` takes to sort the items
+- `O(n)` to iterate over sorted entries
+- so overall the max time is for sorting - `O(n*logn)`
+
+<b>-- MEMORY CONSUMPTION --</b>
+- it takes `O(n)` to create an array of entries
+
+- [View my Solution](./solutions/office-same-time.js)
+
+</details>
+
+<details>
 <summary>14 - Parenthesis (hard)</summary>
 
 <b>-- HOW IT WORKS --</b>
