@@ -1,22 +1,3 @@
-/*
--- HOW IT WORKS --
-Convert a string to an array.
-
-Check for the case when the first item is what we are looking for.
-
-If the result is not the first item, iterate over an array
-of numbers until the item is found.
-
--- CORRECTNESS --
-The algorithm compares each value parity to the first one and
-when it finds the different parity, returns an index.
-
--- TIME COMPLEXITY --
-To iterate over an array takes O(n) time.
-
--- MEMORY CONSUMPTION --
-Additional memory is used to store the array of numbers - O(n).
-*/
 const getDifferentParityIndex = (numbersStr) => {
     const numbers = numbersStr.split(' ');
     const isFirstOdd = !!(numbers[0] % 2);

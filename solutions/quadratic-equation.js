@@ -1,5 +1,3 @@
-// write a function y = ax^2 + bx + c
-
 function solveQuadraticEquation(a, x, b, c) {
 	return a * x * x + b * x + c;
 }

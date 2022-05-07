@@ -1,25 +1,3 @@
-/*
--- HOW IT WORKS --
-Unite 2 arrays by copying all the values from 2 arrays into one.
-
-Count frequency, stored in an associative array where the key is unique value from united array,
-the value is counter.
-
-Create an array of counters and get the max value.
-
--- CORRECTNESS --
-The algorithm iterates over each value and stores the count and increases it
-each time when the value repeats.
-
--- TIME COMPLEXITY --
-To copy an array, to store the counts, to find max - iterate over each element O(n).
-So the overall complexity is O(n).
-
--- MEMORY CONSUMPTION --
-Additional memory is used to store the united array - O(n).
-And to store the counters - less than O(n).
-So the overall consumption is O(n).
-*/
 const countMostFrequent = (firstArray, secondArray) => {
   const unitedArray = [...firstArray, ...secondArray];
   const valueToCount = {};
